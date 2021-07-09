@@ -114,15 +114,6 @@ Aysen = { "Aysen":"11201","Chile Chico":"11401","Cisnes":"11202","Cochrane":"113
 "Lago Verde":"11102","OHiggins":"11302","Rio Ibañez":"11402","Tortel":"11303"}
 Magallanes_y_la_Antartica = { "Antartica":"12202","Cabo de Hornos":"12201","Laguna Blanca":"12102","Natales":"12401","Porvenir":"12301",
 "Primavera":"12302","Punta Arenas":"12101","Rio Verde":"12103","San Gregorio":"12104","Timaukel":"12303","Torres del Paine":"12402"}
-def Arica():
-        from matplotlib import pyplot
-        Arica = ["11/6/21","14/6/21","18/6/21","21/6/21","25/6/21","29/6/21","2/7/21"]
-        Valores = [10607.1,10717.3,10872.9,10985.6,11139.5,11235.2,11340.6]
-        colores = ["red","blue","green","pink","yellow","gray","brown"]
-        pyplot.title ("Tasa de Incidencia en Arica")
-        pyplot.bar (Arica, height=Valores,color=colores,width=0.5)
-        pyplot.show ()
-
 
 print("1-Ver una región")
 print("2-Ver una comuna")
