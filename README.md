@@ -13,3 +13,5 @@ Integrantes:Ignacio Gorigoitia
 Este avance lo fui realizando con mi compañero en  replit.com 
 # aun falta terminar los gráficos 
 ( Ignacio Gorigoitia - Bastian Puebla  )
+
+10/7/2021:Proyecto n*5 final: Los def fueron intregados perfectamente en el codigo,incluye todos los valores de todo las regiones/comunas,,se incluyo la tabla de la region con mas incidencia y la menor con tasa de incidencia, comentado con todo el procedimiento, cómo se hablo anteriormente,aunque mi compañero bastian puebla hizo la mayor parte del comentario,pero los def fue un trabajo en conjunto por medio de python online
